@@ -1,6 +1,6 @@
 # Tri-NLU (Accepted at INTERSPEECH 2023)
 
-__<p align="center">Henry Weld, Sijia Hu, Siqu Long, Josiah Poon, Soyeon Caren Han <br/> University of Sydney and University of Western Australia</p>__
+__<p align="center">Henry Weld, Sijia Hu, Siqu Long, Josiah Poon, Soyeon Caren Han* <br/> University of Sydney and University of Western Australia <br/>(*corresponding author)</p>__
 
 
 ### **The code/details will be shared during the INTERSPEECH 2023, 20th–24th August 2023**
