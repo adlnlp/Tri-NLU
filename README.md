@@ -4,13 +4,20 @@ __<p align="center">Henry Weld, Sijia Hu, Siqu Long, Josiah Poon, Soyeon Caren H
 
 [The paper may be downloaded here.](https://www.isca-speech.org/archive/interspeech_2023/weld23_interspeech.html)
 
-@inproceedings{weld23_interspeech,<br>  
-  author={Henry Weld and Sijia Hu and Siqu Long and Josiah Poon and Soyeon Han},<br>  
-  title={{Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets}},<br>  
-  year=2023,<br>  
-  booktitle={Proc. INTERSPEECH 2023},<br>  
-  pages={700--704},<br>  
-  doi={10.21437/Interspeech.2023-2300}<br>  
+@inproceedings{weld23_interspeech,
+
+  author={Henry Weld and Sijia Hu and Siqu Long and Josiah Poon and Soyeon Han},
+  
+  title={{Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets}},
+  
+  year=2023,
+  
+  booktitle={Proc. INTERSPEECH 2023},
+  
+  pages={700--704},
+  
+  doi={10.21437/Interspeech.2023-2300}
+  
 }
 
 ### **The code/details will be shared during the INTERSPEECH 2023, 20th–24th August 2023**
